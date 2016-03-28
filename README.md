@@ -2,6 +2,7 @@
 Hangout with your friend with this app.
 
 The below is the link of how the app looks like:
+
 https://www.youtube.com/watch?v=73uqkkEa3_M
 
 Intelligent Mobile Application – Hangout Street - (HTML, PHP, SQL, JavaScript, CSS, AJAX, Google APIs, JSON)
